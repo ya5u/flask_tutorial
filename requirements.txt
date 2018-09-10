@@ -1,0 +1,16 @@
+atomicwrites==1.2.1
+attrs==18.2.0
+click==6.7
+coverage==4.5.1
+Flask==1.0.2
+-e git+https://github.com/yasu43/flask_tutorial.git@70b4b7179cd5cc099f6197c7328c887b953b1fb5#egg=flaskr
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+more-itertools==4.3.0
+pluggy==0.7.1
+py==1.6.0
+pytest==3.8.0
+six==1.11.0
+waitress==1.1.0
+Werkzeug==0.14.1
